@@ -1,6 +1,6 @@
+cd <to path of project>
 git init
-git remote add origin https://github.com/Anoldyogi/Generator.git
+git remote add origin <project url>
 git add .
 git commit -m "Initial commit"
-git remote add origin <project url>
 git push -f origin master
